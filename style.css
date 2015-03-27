@@ -1,0 +1,7 @@
+h1 { 
+    color: aqua; 
+}
+tr {
+    background-color: beige;
+    color: red;  /* this is a comment ctl-e */
+}
